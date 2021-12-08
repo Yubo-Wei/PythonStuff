@@ -1,2 +1,2 @@
 # PythonStuff 
-This page will be closed before the new quarter starts. (Jan 2022)
+This page contains course materials. It will be closed before the new quarter starts. (Jan 2022)
